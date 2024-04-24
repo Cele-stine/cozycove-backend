@@ -21,3 +21,12 @@ This repository contains the backend codebase for an e-commerce website develope
 - **Stripe API**: Integration with the Stripe API for payment processing.
 - **Swagger UI**: Swagger UI is integrated to document and test the API endpoints.
 - **Pytest**: Pytest is used for testing the backend functionalities.
+
+## Team members
+
+Celestine wangechi - Backend 
+Mishak Mosimabale - Frontend 
+Taiwo Taiwo - DevOps
+
+You can find the project's GitHub repository here[https://github.com/Evarmedia/cozycove], the deployed project page here[https://cozycove-ecom.netlify.app/], and the project's landing page here[https://cozycove-ecom.netlify.app/about]. Connect with me on LinkedIn.
+
