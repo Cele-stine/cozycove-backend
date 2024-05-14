@@ -1,5 +1,5 @@
 from flask import Flask
-import msql.connector
+import mysql.connector
 
 """ set up the app to connect to db."""
 
