@@ -10,7 +10,7 @@ app = Flask(__name__)
 db_config = {
         'host': 'localhost',
         'user': 'cozy',
-        'password ': '1234',
+        'password': '1234',
         'database': 'cozycove_db',
         }
 
